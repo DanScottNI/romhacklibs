@@ -1,0 +1,256 @@
+NROM
+Nintendo MMC1
+UNROM
+CNROM
+Nintendo MMC3
+Nintendo MMC5
+FFE F3xxx series
+AOROM
+FFE F3xxx series
+Nintendo MMC2
+Nintendo MMC4
+Colour Dreams
+12/Unknown
+CPROM
+14/Unknown
+100-in-1 chip
+Bandai chip
+FFE F8xxx
+Jaleco SS8806
+Namcot 106
+Nintendo Disk System
+Konami VRC4 2A
+Konami VRC4 1B
+Konami VRC2b
+Konami VRC6
+Konami VRC4
+Konami VRC6V
+27/Unknown
+28/Unknown
+29/Unknown
+30/Unknown
+31/Unknown
+Irem G101
+Taito TC0190/TC0350
+Nina-1
+35/Unknown
+36/Unknown
+37/Unknown
+38/Unknown
+39/Unknown
+SMB2j
+Caltron 6-in-1
+Mario Baby
+43/Unknown
+7-in-1
+1000000-in-1
+Rumble Station
+NES-QJ
+Taito TC190V
+4-in-1
+SMB2j
+51/Unknown
+52/Unknown
+53/Unknown
+54/Unknown
+55/Unknown
+56/Unknown
+57/Unknown
+58/Unknown
+59/Unknown
+60/Unknown
+61/Unknown
+62/Unknown
+63/Unknown
+Tengen Rambo-1
+Irem H3001
+Bandai 74161/32
+Sunsoft Mapper 3
+Sunsoft Mapper 4
+Sunsoft Mapper 5
+74161/32
+Camerica Mapper
+Jaleco Early Mapper #0
+Konami VRC3
+74/Unknown
+Jaleco/Konami VRC1
+Namco 109
+Irem Early Mapper 0
+Jaleco 74161/32
+Nina-3 (AVE)
+Taito X-005
+81/Unknown
+Taito C075
+Cony
+84/Unknown
+Konami VRC7
+Jaleco Early Mapper #2
+Konami 74161/32
+Namco 118
+Sunsoft Early Mapper
+PC-JY-??
+91/Unknown
+Jaleco Early Mapper #1
+Sunsoft 74161/32
+Capcom 74161/32
+Namco 106M
+Bandai 74161/32
+Irem 74161/32
+98/Unknown
+VS Unisystem
+Nesticle MMC3
+Jaleco 74161/32
+102/Unknown
+103/Unknown
+104/Unknown
+NES-EVENT
+106/Unknown
+107/Unknown
+108/Unknown
+109/Unknown
+110/Unknown
+111/Unknown
+PC-Asder
+PC-Sachen/Hacker
+114/Unknown
+115/Unknown
+116/Unknown
+PC-Future
+IQS MMC3
+119/Unknown
+120/Unknown
+121/Unknown
+Sunsoft 74161/32
+123/Unknown
+124/Unknown
+125/Unknown
+126/Unknown
+127/Unknown
+128/Unknown
+129/Unknown
+130/Unknown
+131/Unknown
+132/Unknown
+133/Unknown
+134/Unknown
+135/Unknown
+136/Unknown
+137/Unknown
+138/Unknown
+139/Unknown
+Jaleco ??
+141/Unknown
+142/Unknown
+143/Unknown
+Death Race
+145/Unknown
+146/Unknown
+147/Unknown
+148/Unknown
+149/Unknown
+150/Unknown
+VS Unisystem (Konami)
+?? (Arkanoid 2)
+Bandai ?? (Famicom Jump 2)
+Namco ?? (Devil Man)
+MMC1 w/o normal WRAM disable
+156/Unknown
+157/Unknown
+158/Unknown
+159/Unknown
+PC-Aladdin
+161/Unknown
+162/Unknown
+163/Unknown
+164/Unknown
+165/Unknown
+166/Unknown
+167/Unknown
+168/Unknown
+169/Unknown
+170/Unknown
+171/Unknown
+172/Unknown
+173/Unknown
+174/Unknown
+175/Unknown
+176/Unknown
+177/Unknown
+178/Unknown
+179/Unknown
+Nichibutsu
+181/Unknown
+PC-SuperDonkeyKong
+183/Unknown
+Sunsoft 74161/32
+CHR-ROM Disable Protect
+186/Unknown
+Street Fighter Zero 2 97
+Bandai Karaoke Studio
+Street Fighter 2 Yoko
+190/Unknown
+191/Unknown
+192/Unknown
+193/Unknown
+194/Unknown
+195/Unknown
+196/Unknown
+197/Unknown
+198/Unknown
+199/Unknown
+200/Unknown
+201/Unknown
+202/Unknown
+203/Unknown
+204/Unknown
+205/Unknown
+206/Unknown
+207/Unknown
+208/Unknown
+209/Unknown
+210/Unknown
+211/Unknown
+212/Unknown
+213/Unknown
+214/Unknown
+215/Unknown
+216/Unknown
+217/Unknown
+218/Unknown
+219/Unknown
+220/Unknown
+221/Unknown
+222/Unknown
+223/Unknown
+224/Unknown
+72-in-1
+76-in-1
+1200-in-1
+Action 52
+31-in-1
+22-in-1
+20-in-1
+Quattro Games
+42-in-1
+234/Unknown
+150-in-1
+236/Unknown
+237/Unknown
+238/Unknown
+239/Unknown
+Gen Ke Le Zhuan
+241/Unknown
+Wai Xing Zhan Shi
+PC-Sachen/Hacker
+244/Unknown
+245/Unknown
+Phone Serm Berm
+247/Unknown
+248/Unknown
+Waixing ??
+Time Diver Avenger
+251/Unknown
+252/Unknown
+253/Unknown
+254/Unknown
+110-in-1
