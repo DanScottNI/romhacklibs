@@ -4,8 +4,8 @@
 
 You will need the following to download, and compile ROMHackLib:
 
-* Subversion Client
-* Visual Studio 2008
+  * Subversion Client
+  * Visual Studio 2008
 
 = Details =
 
