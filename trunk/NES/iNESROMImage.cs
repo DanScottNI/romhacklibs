@@ -216,7 +216,7 @@ namespace ROMHackLib.NES
             StreamReader textStreamReader;
             Assembly assembly;
             assembly = Assembly.GetExecutingAssembly();
-            textStreamReader = new StreamReader(assembly.GetManifestResourceStream("ROMClass.NES.MapperNames.txt"));
+            textStreamReader = new StreamReader(assembly.GetManifestResourceStream("ROMHackLib.NES.MapperNames.txt"));
             for (int i = 0; i < 256; i++)
             {
                 this.mapperNames[i] = textStreamReader.ReadLine();
