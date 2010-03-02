@@ -41,6 +41,9 @@
     <Reference Include="System.Drawing" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Extensions.cs" />
@@ -50,6 +53,7 @@
     <Compile Include="NES\iNESROMImage.cs" />
     <Compile Include="Graphics\NESRender.cs" />
     <Compile Include="Graphics\PixelData.cs" />
+    <Compile Include="Project\IXMLManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="BaseROMImage.cs" />
   </ItemGroup>
