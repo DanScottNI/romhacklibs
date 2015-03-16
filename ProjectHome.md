@@ -1,0 +1,1 @@
+This project contains libraries specifically designed for ROM hacking, which are written in C#. Programs that use this libraries are also in the project.
